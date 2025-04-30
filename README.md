@@ -15,7 +15,7 @@
 - 5/29 (목) : 아래 패턴 中 각자 택 1 하여 개념 발표 및 코드 공유
 
   - Iterator, Template Method, Singleton, Prototype, Bridge, Strategy, Decorator, State, Flyweight, Proxy
-  - 강사님 강의 진행 후 추가 에정
+  - 강사님 강의 진행 후 추가 예정
 
 ### 5. 참고 자료
 - 스터디 깃허브 주소: git@github.com:KernelAcademy-Study/DesignPattern.git
