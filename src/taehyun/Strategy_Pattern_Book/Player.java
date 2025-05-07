@@ -2,7 +2,7 @@ package Strategy_Pattern;
 
 public class Player {
     private String name;
-    private Strategy strategy;
+    private Strategy strategy; // 전략을 사용하는 객체
     private int wincount;
     private int losecount;
     private int gamecount;
@@ -10,7 +10,7 @@ public class Player {
     // 이름과 전략을 받아서 플레이어를 만든다
     public Player(String name, Strategy strategy) {
         this.name = name;
-        this.strategy = strategy;
+        this.strategy = strategy; // 초기 전략 설정
     }
 
     // 전략에 따라 다음 손을 결정한다.

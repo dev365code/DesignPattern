@@ -9,8 +9,8 @@ public class StrategyPatternTest {
         }
         int seed1 = Integer.parseInt(args[0]);
         int seed2 = Integer.parseInt(args[1]);
-        Player player1 = new Player("KIM", new WinningStrategy(seed1));
-        Player player2 = new Player("LEE", new WinningStrategy(seed2));
+        Player player1 = new Player("KIM", new WinningStrategy());
+        Player player2 = new Player("LEE", new ProbStrategy());
         for(int i = 1; i <= 10000; i++) {
             Hand nextHand1 = player1.nextHand();
             Hand nextHand2 = player2.nextHand();
