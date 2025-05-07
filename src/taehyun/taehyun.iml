@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Iterator_Pattern_Book" isTestSource="false" packagePrefix="Iterator_Pattern" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator_Pattern_MyCode" isTestSource="false" packagePrefix="Iterator_Pattern" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_Book" isTestSource="false" packagePrefix="Strategy_Pattern" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_MyCode" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
