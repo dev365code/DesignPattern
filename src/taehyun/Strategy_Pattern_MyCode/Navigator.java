@@ -10,6 +10,8 @@ public class Navigator {
             System.out.println("경로 탐색 전략이 설정되지 않았습니다.");
         } else {
             strategy.buildRoute(from, to);
+            int time = strategy.estimateRoute(from, to);
+            System.out.println("예상 소요 시간: " + time + "분");
         }
     }
 }
