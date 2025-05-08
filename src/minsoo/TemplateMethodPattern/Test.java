@@ -1,7 +1,5 @@
 package minsoo.TemplateMethodPattern;
 
-import minsoo.TemplateMethodPattern.Daehwa;
-import minsoo.TemplateMethodPattern.Student;
 public class Test {
     public static void main(String[] args) {
         Student daehwa = new Daehwa("Daehwa");
