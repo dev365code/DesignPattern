@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Iterator_Pattern_MyCode" isTestSource="false" packagePrefix="Iterator_Pattern" />
       <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_Book" isTestSource="false" packagePrefix="Strategy_Pattern" />
       <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_MyCode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_Not_Used" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
