@@ -2,7 +2,7 @@ package Iterator_Pattern;
 
 import java.util.Iterator;
 
-public class IteratorPatterTest {
+public class IteratorPatternTest {
     public static void main(String[] args) {
         BookShelf bookShelf = new BookShelf(4);
         bookShelf.appendBook(new Book("Around the World in 80 Days"));
