@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_MyCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Strategy_Pattern_Not_Used" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/State_Pattern_Book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Future_Pattern_MyCode" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
