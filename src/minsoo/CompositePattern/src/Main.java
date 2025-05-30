@@ -23,5 +23,12 @@ public class Main {
         bag2.add(item4);
 
         bag1.showPrice();
+
+        // 구찌
+        // ㄴ 사과
+        // ㄴ 바나나
+        // ㄴ 샤넬
+        //    ㄴ 계란
+        //    ㄴ 메추리알
     }
 }
